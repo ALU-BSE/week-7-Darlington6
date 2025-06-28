@@ -36,7 +36,7 @@ A fully responsive front-end web application built with **Bootstrap 5** (no cust
 
 | Original Design (Video)
 |---------------------------------------------------------------------|
-| ![Original](project-demo.webm) |
+| ![Original](./project-demo.webm) |
 
 | My Implementation (Screenshots)
 |---------------------------------------------------------------------|
@@ -57,12 +57,12 @@ A fully responsive front-end web application built with **Bootstrap 5** (no cust
 ---
 
 ## Project Folder Structure
-week-7-Darlington6/
+| week-7-Darlington6/
 ├── images/
     ├──about-fullstack.jpg
 ├── index.html
 ├── project-demo.webm
-├── README.md
+├── README.md  |
 
 ---
 
