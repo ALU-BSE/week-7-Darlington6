@@ -57,9 +57,17 @@ A fully responsive front-end web application built with **Bootstrap 5** (no cust
 ---
 
 ## Project Folder Structure
-| week-7-Darlington6/
-├── images/
-    ├──about-fullstack.jpg
+week-7-Darlington6/
+├── /images/
+    └── about-fullstack.jpg
+├── /screenshots/
+    ├── screenshot1-home.png
+    ├── screenshot2-speakers.png
+    ├── screenshots3-schedule.png
+    ├── screenshot4-register-footer.png
+    ├── screenshot5-register-form.png
+    ├── screenshot6-register-form-complete.png
+    └── ...
 ├── index.html
 ├── project-demo.webm
 ├── README.md  |
