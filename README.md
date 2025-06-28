@@ -40,7 +40,7 @@ A fully responsive front-end web application built with **Bootstrap 5** (no cust
 
 | My Implementation (Screenshots)
 |---------------------------------------------------------------------|
-| ![screenshot1-home](week-7-Darlington6/screenshots/screenshot1-home.png) |                                                    
+| ![screenshot1-home](./screenshots/screenshot1-home.png) |                                                    
 | ![screenshot2-speakers](week-7-Darlington6/screenshots/screenshot2-speakers.png) |                                                    
 | ![screenshot3-schedule](week-7-Darlington6/screenshots/screenshot3-schedule.png) |                                                    
 | ![screenshot4-register-footer](week-7-Darlington6/screenshots/screenshot4-register-footer.png) |                                                    
